@@ -89,3 +89,10 @@ I would use AI pair programming when I need more control over the implementation
 The Vibe Version was useful for quickly getting a working application, while the Pair Version provided more control over the implementation.
 
 The comparison showed that speed and control involve different trade-offs. For a quick prototype I would choose vibe coding, while for maintainable project work I would prefer AI pair programming.
+
+## Submission
+
+This repository contains both the Vibe Coding and AI Pair Programming implementations for Challenge #4.
+
+- Vibe Version: https://project-engineering-szk7.vercel.app/
+- Pair Version: https://project-engineering-two.vercel.app/
